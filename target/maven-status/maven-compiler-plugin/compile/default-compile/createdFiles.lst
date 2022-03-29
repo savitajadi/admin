@@ -1,0 +1,5 @@
+com\mindtree\app\AdminCredentialsApplication.class
+com\mindtree\app\repository\AdminCredentialsRepo.class
+com\mindtree\app\service\AdminCredentialsService.class
+com\mindtree\app\controller\AdminCredentialsController.class
+com\mindtree\app\entity\AdminCredetials.class
